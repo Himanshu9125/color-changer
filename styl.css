@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.main {
+    padding-top: 5%;
+    height: 100%;
+    width: 100%;
+}
+
+.title {
+    margin-top: 10%;
+    height: 10%;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 53%;
+    margin-left: 23%;
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(194, 177, 177);
+}
+
+.change {
+    border: 5px solid black;
+    margin-top: 150px;
+    width: 40%;
+    height: 300px;
+    margin-left: 27%;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.btn {
+    margin-top: 20%;
+    margin-left: 45%;
+    background-color: crimson;
+    width: 100px;
+    height: 30px;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+h1:hover {
+    color: white;
+}
